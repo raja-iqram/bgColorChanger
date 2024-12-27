@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.button{
+    padding: 15px 40px;
+    border-color: white;
+    border-radius: 5px;
+    margin: 0px 10px;
+}
+
+.button{
+    font-size: 14px;
+    color: white;
+}
+
+#green{
+    background-color: green;
+}
+
+#Purple{
+    background-color: purple;
+}
+
+#Orange{
+    background-color: orange;
+}
+
+
+/* CSS for clear button  */
+#Clear{
+    padding: 15px 40px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin: 0px 10px;
+}
